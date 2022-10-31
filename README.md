@@ -15,7 +15,7 @@ Based on sensing of sensors unique input pattern is generated.Input and output p
 
 ![image](https://user-images.githubusercontent.com/107185323/199085228-daeb2999-0940-4eb9-bc6b-e1a3e9ea3067.png)
 
-### Implementation
+## Implementation
 The Encoder is constructed with Digital logic gate IC’s and magnetic sensors with proper arrangement and after completion if circuit it is placed inside a turret for its application as shown in the fig.
 
 
